@@ -1,0 +1,14 @@
+*.orig
+*.rej
+Makefile
+*~
+*.o
+config.h
+config.log
+config.cache
+config.status
+.devel
+iperf-*.tar.gz
+failure-outputs.txt
+autom4te.cache/
+
